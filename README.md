@@ -180,5 +180,5 @@ const harsh = {
 ---
 
 <div align="center">
-<i>⭐️ From <a href="https://github.com/zenoshubh">zenoshubh</a></i>
+<i>⭐️ From <a href="https://github.com/Harsh-Gharewal/">Harsh</a></i>
 </div>
