@@ -59,7 +59,7 @@ const harsh = {
 
 ## 🏆 Featured Projects
 
-### 🔥 **RailRoute** - A RAG-Powered Agentic AI System for Dynamic Health Planning
+### 🔥 **RailRoute** - A modern Indian train tracking app.
 
 [![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://railroute-tau.vercel.app/)
 [![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Harsh-Gharewal/RailRoute/)
